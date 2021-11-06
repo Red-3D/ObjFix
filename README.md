@@ -7,6 +7,6 @@ Script to work around some quirks of the blender obj importer
 - enable the addon
 
 ## Usage
-- Import an obj file
-- In the menu bar, press "Object" > ObjFix
+- Import obj files and select the object you want to fix
+- In the menu bar, press "Object" > "ObjFix"
 - Use the popup to select the fixes you wish to use
